@@ -591,5 +591,5 @@ end
 
 end
 return {
-ZMRD = games
+Peland = games
 }
